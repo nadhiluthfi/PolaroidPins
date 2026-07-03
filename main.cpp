@@ -1,5 +1,4 @@
 // PolaroidPins — tiny desktop widget showing two pinned polaroid photos.
-// Win32 + GDI+, per-pixel alpha layered window. No runtime dependencies.
 //
 // Controls:
 //   drag            move the widget (unless position is locked)
