@@ -1,0 +1,23 @@
+# Build outputs
+*.exe
+*.obj
+*.res
+*.pdb
+*.ilk
+
+# Editor / OS cruft
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
+
+# Claude
+.claude/
+
+# Personal photos — keep them out of the repo if you ever copy some here
+# (the app itself stores nothing in this folder; photo paths and settings
+# live in %APPDATA%\PolaroidPins\config.ini)
+*.jpg
+*.jpeg
+*.webp
+!assets/pin.png
